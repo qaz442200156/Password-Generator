@@ -1,5 +1,3 @@
-# Password-Generator
-
 # Auto User Password Generator
 
 This Python script reads user data from a CSV file, generates passwords for users who don't have one, and writes the updated user data to a new CSV file. It also adds the new users to the system.
